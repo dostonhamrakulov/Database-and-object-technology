@@ -11,11 +11,11 @@ Here, I have three different practical works from Database and Object technology
 ```
 
 ### Author
-**Doston Hamrakulov**
+>*Doston Hamrakulov*
 >*Computer Systems, Riga Technical University, Riga, Latvia*
 
 ## Practical work_1:
-###1. practical work. Objec-relational DB storage structures
+### 1. practical work. Objec-relational DB storage structures
 Creation of object – relational database data storage structures and methods, data input, metadata output and data extraction (queries).
 Deadline: 3. November. 2017
 
@@ -41,7 +41,7 @@ In 2. practical work is discussed use of Java in database server. Deadline: 28. 
 
 
 ## Practical work_3:
-###3. practical work. XML database
+### 3. practical work. XML database
 Design of XML database. Deadline: 19. December.
 
 1. With XML editor (EditX, Oxygen, …) design and create XML documents and schema files.
