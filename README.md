@@ -11,7 +11,7 @@ Here, I have three different practical works from Database and Object technology
 ```
 
 ### Author
->*Doston Hamrakulov*
+>*Doston Hamrakulov, *
 >*Computer Systems, Riga Technical University, Riga, Latvia*
 
 ## Practical work_1:
