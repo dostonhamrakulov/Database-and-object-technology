@@ -5,9 +5,9 @@
 
 Here, I have three different practical works from Database and Object technology course
 
-### Programming language
-```[plsql]
-PLSQL 
+### Programming languages
+```[plsql, java, xml, sql]
+PLSQL, JAVA, XML, SQL
 ```
 
 ### Author
