@@ -7,12 +7,11 @@ Here, I have three different practical works from Database and Object technology
 
 ### Programming language
 ```[plsql]
-// PLSQL 
+PLSQL 
 ```
 
 ### Author
->*Doston Hamrakulov, *
->*Computer Systems, Riga Technical University, Riga, Latvia*
+>*Doston Hamrakulov, Computer Systems, Riga Technical University, Riga, Latvia*
 
 ## Practical work_1:
 ### 1. practical work. Objec-relational DB storage structures
