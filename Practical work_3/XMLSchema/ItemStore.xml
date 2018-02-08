@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemStore>
+    <Item id="1">
+        <ItemType type="phone">
+            <PhoneType model="apple">
+                <Marka>Iphone 7s</Marka>
+                <Memory>32</Memory>
+                <Description>Отличное состояние, носился в чехле. Только телефон</Description>
+                <Price>500</Price>
+            </PhoneType>
+        </ItemType>
+    </Item>
+    <Item id="2">
+        <ItemType type="laptop">
+            <PhoneType model="lenovo">
+                <Marka>Ideapad 500</Marka>
+                <Memory>500</Memory>
+                <Description>Piedāvājam mazlietotu portatīvo datoru Lenovo Ideapad 500, 
+                    Procesors(CPU): Intel Core i7-6500U 2 kodoli 4 tredi ar 2.50Ghz frekvenci.
+                    Operētājsistēma(OS): Microsoft Windows 10</Description>
+                <Price>500</Price>
+            </PhoneType>
+        </ItemType>
+    </Item>
+    <Item id="2">
+        <ItemType type="tv">
+            <PhoneType model="samsung">
+                <Marka>samsung lcd 777</Marka>
+                <Memory>100</Memory>
+                <Description>Lcd televizors 82 см, idealā stavoklī. Pults. Iespeja stiprinat pie sienas, Datoru pieslegšana, txt. Garantija. 
+                    Hd Ready. 16/9 Zoom. USB
+                    TV tuner:Analog + Dekoders DVBT
+                </Description>
+                <Price>500</Price>
+            </PhoneType>
+        </ItemType>
+    </Item>
+    <Item id="4">
+        <ItemType type="phone">
+            <PhoneType model="samsung">
+                <Marka>Note 8</Marka>
+                <Memory>100</Memory>
+                <Description>Apskatīt un iegādāties preci var "Vita Lombards" filiālē Rīga, Merķeļa iela 7
+                    Strādājam bez brīvdienām no 08:00 lidz 20:00. 
+                    Pārdošanā ir arī citi modeļi, un citas preces. 
+                    Ja nepieciešams vairāk informācijas, zvaniet uz norādīto telefona numuru.
+                </Description>
+                <Price>500</Price>
+            </PhoneType>
+        </ItemType>
+    </Item>
+</ItemStore>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="19.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="XML_oxygen_project.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="XML_oxygen_project.xpr">
+        <folder path="XMLSchema/"/>
+        <file name="Student.xml"/>
+    </projectTree>
+</project>

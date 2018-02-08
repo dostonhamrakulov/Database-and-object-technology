@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OwnerStore>
+    <Owner id="110200">
+        <Name>Doston</Name>
+        <Surname>Hamrakulov</Surname>
+        <Contact>
+            <Email>doston.hamrakulov@gmail.com</Email>
+            <Phone>28786188</Phone>
+        </Contact>
+        <Address>
+            <Street>Elizabetes 103/9</Street>
+            <City>Riga</City>
+            <ZipCode>LV-1050</ZipCode>
+            <Country>Latvia</Country>
+        </Address>
+    </Owner>
+    <Owner id="110201">
+        <Name>Janis</Name>
+        <Surname>Grabis</Surname>
+        <Contact>
+            <Email>janis@gmail.com</Email>
+            <Phone>99999999</Phone>
+        </Contact>
+        <Address>
+            <Street>Setas 1</Street>
+            <City>Riga</City>
+            <ZipCode>LV-1048</ZipCode>
+            <Country>Latvia</Country>
+        </Address>
+    </Owner>
+    <Owner id="110203">
+        <Name>Kate</Name>
+        <Surname>Adams</Surname>
+        <Contact>
+            <Email>kate.adams@mail.com</Email>
+            <Phone>9898089089</Phone>
+        </Contact>
+        <Address>
+            <Street>Hill str 10</Street>
+            <City>London</City>
+            <ZipCode>001000</ZipCode>
+            <Country>United Kingdom</Country>
+        </Address>
+    </Owner>
+</OwnerStore>
+

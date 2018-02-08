@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <name>Doston</name>
+        <surname>Hamrakulov</surname>
+        <email>doston.hamrakulov@gmail.com</email>
+        <degree>Bachelor</degree>
+        <mark>10</mark>
+        <country>Uzbekistan</country>
+    </Student>
+    <Student>
+        <name>Bobosher</name>
+        <surname>Hamrakulov</surname>
+        <email>bobosher.hamrakulov@gmail.com</email>
+        <degree>Master</degree>
+        <mark>10</mark>
+        <country>Uzbekistan</country>
+    </Student>
+    <Student>
+        <name>Kate</name>
+        <surname>Chaien</surname>
+        <email>Kate@gmail.com</email>
+        <degree>Master</degree>
+        <mark>8</mark>
+        <country>United Kingdom</country>
+    </Student>
+    <Student>
+        <name>Janis</name>
+        <surname>Grabis</surname>
+        <email>janis@gmail.com</email>
+        <degree>Bachelor</degree>
+        <mark>8</mark>
+        <country>Latvia</country>
+    </Student>
+    <Student>
+        <name>John</name>
+        <surname>Smith</surname>
+        <email>john.smith@gmail.com</email>
+        <degree>Master</degree>
+        <mark>7</mark>
+        <country>United States</country>
+    </Student>
+</Students>

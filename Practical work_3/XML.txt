@@ -1,0 +1,17 @@
+http://www.liberidu.com/blog/2014/07/18/loading-xml-documents-into-an-oracle-database/
+
+C:/>sqlplus / as sysdba
+sql>alter session set container=pdborcl;
+SQL>GRANT CREATE any directory, DROP any directory, CONNECT, resource, unlimited tablespace, ALTER SESSION, CREATE VIEW TO HR IDENTIFIED BY HR;
+
+Grant succeeded.
+
+SQL>ALTER USER HR DEFAULT tablespace USERS TEMPORARY tablespace TEMP;
+
+User altered.
+
+SQL>CONNECT HR/HR@PDBORCL
+
+connected
+
+SQL>CREATE OR REPLACE directory XMLFILES AS 'E:\RTU lessons\Databases and object technology\Practical work_3';
