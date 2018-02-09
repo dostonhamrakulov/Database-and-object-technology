@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cars>
+    <Car>
+        <Name>BWM auto</Name>
+        <Hourse_power>200</Hourse_power>
+        <Year>2015</Year>
+        <Condition>New</Condition>
+        <Price>20000 euro</Price>
+        <Type>Automatic</Type>
+    </Car>
+    <Car>
+        <Name>Mercedce</Name>
+        <Hourse_power>250</Hourse_power>
+        <Year>2014</Year>
+        <Condition>New</Condition>
+        <Price>15000 euro</Price>
+        <Type>Automatic</Type>
+    </Car>
+    <Car>
+        <Name>BWM X6</Name>
+        <Hourse_power>350</Hourse_power>
+        <Year>2018</Year>
+        <Condition>New</Condition>
+        <Price>25000 euro</Price>
+        <Type>Automatic</Type>
+    </Car>
+    <Car>
+        <Name>Audio</Name>
+        <Hourse_power>240</Hourse_power>
+        <Year>2016</Year>
+        <Condition>Used</Condition>
+        <Price>15000 euro</Price>
+        <Type>Automatic</Type>
+    </Car>
+</Cars>

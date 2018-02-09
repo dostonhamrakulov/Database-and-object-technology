@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <Employee id="1">
+        <Id>201</Id>
+        <Name>Bahudor</Name>
+        <Surname>Surxonov</Surname>
+        <Position>Teacher</Position>
+        <Working_year>3 years</Working_year>
+        <Department>
+            <Department_name>Civil Engineering</Department_name>
+            <Department_address>
+                <Street>Meryi street 102</Street>
+                <City>Riga</City>
+            </Department_address>
+        </Department>
+    </Employee>
+    <Employee id="2">
+        <Id>202</Id>
+        <Name>Samil</Name>
+        <Surname>Husar</Surname>
+        <Position>Professor Asistant</Position>
+        <Working_year>10 years</Working_year>
+        <Department>
+            <Department_name>Computer Science</Department_name>
+            <Department_address>
+                <Street>Davgavpils street 2</Street>
+                <City>Riga</City>
+            </Department_address>
+        </Department>
+    </Employee>
+    <Employee id="3">
+        <Id>203</Id>
+        <Name>Janis</Name>
+        <Surname>Ganshirs</Surname>
+        <Position>Professor</Position>
+        <Working_year>6 years</Working_year>
+        <Department>
+            <Department_name>Aviation and Transportation</Department_name>
+            <Department_address>
+                <Street>Yahurs street 102</Street>
+                <City>Riga</City>
+            </Department_address>
+        </Department>
+    </Employee>
+</Employees>

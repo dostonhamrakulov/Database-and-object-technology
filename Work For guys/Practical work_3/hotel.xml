@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+    <Hotel id="10001">
+        <Name>Mercury Hotel</Name>
+        <Address>
+            <Street>Elizabetes 103</Street>
+            <City>Riga</City>
+            <Country>Latvia</Country>
+        </Address>
+        <Contact>
+            <Phone>+371 689547598</Phone>
+            <Email>mercury@hotels.com</Email>
+        </Contact>
+    </Hotel>
+    <Hotel id="10002">
+        <Name>London Eye Hotel</Name>
+        <Address>
+            <Street>Brige street 14</Street>
+            <City>London</City>
+            <Country>United Kingdom</Country>
+        </Address>
+        <Contact>
+            <Phone>+44 787859695</Phone>
+            <Email>londoneye@gmail.com</Email>
+        </Contact>
+    </Hotel>
+    <Hotel id="10003">
+        <Name>Effils tour Hotel</Name>
+        <Address>
+            <Street>Burifge street 56</Street>
+            <City>Paris</City>
+            <Country>France</Country>
+        </Address>
+        <Contact>
+            <Phone>+49 5645856312</Phone>
+            <Email>effilehotel@gmail.com</Email>
+        </Contact>
+    </Hotel>
+</Hotels>

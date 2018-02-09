@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Customers>
+    <Customer id="101">
+        <Fullname>Merry kandie</Fullname>
+        <Booking>
+            <Days>5</Days>
+            <Check-in>05-01-2017</Check-in>
+            <Check-out>10-01-2017</Check-out>
+        </Booking>
+        <Address>
+            <Email>meery@outlook.com</Email>
+            <Phone>+178 45698715</Phone>
+            <Country>Canada</Country>
+        </Address>
+    </Customer>
+    <Customer id="102">
+        <Fullname>John Smith</Fullname>
+        <Booking>
+            <Days>3</Days>
+            <Check-in>05-12-2017</Check-in>
+            <Check-out>08-12-2017</Check-out>
+        </Booking>
+        <Address>
+            <Email>john@gmail.com</Email>
+            <Phone>+1 75689792566</Phone>
+            <Country>USA</Country>
+        </Address>
+    </Customer>
+    <Customer id="103">
+        <Fullname>Chungi Kunge</Fullname>
+        <Booking>
+            <Days>10</Days>
+            <Check-in>25-03-2017</Check-in>
+            <Check-out>05-04-2017</Check-out>
+        </Booking>
+        <Address>
+            <Email>chungi@gmail.com</Email>
+            <Phone>+878 5648976256</Phone>
+            <Country>Japan</Country>
+        </Address>
+    </Customer>
+</Customers>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:element name="Customers">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Customer">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Fullname"/>
+                            <xs:element name="Booking">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Days"/>
+                                        <xs:element name="Check-in"/>
+                                        <xs:element name="Check-out"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Address">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Email"/>
+                                        <xs:element name="Phone"/>
+                                        <xs:element name="Country"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="ID"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
