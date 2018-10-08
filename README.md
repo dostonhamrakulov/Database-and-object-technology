@@ -3,15 +3,24 @@
 ## PL/SQL works
 ## Database and object technology
 
-Here, I have three different practical works from Database and Object technology course
+Here, I had three different practical works from Database and Object technology course in 2017, at Riga Technical University. There we studied PL/SQL, XML, and JDBC and their usage in real applications. I was given individual tasks in each topic and here I have added them.
 
 ### Programming languages
 ```[plsql, java, xml, sql]
 PLSQL, JAVA, XML, SQL
 ```
 
-### Author
->*Doston Hamrakulov, Computer Systems, Riga Technical University, Riga, Latvia*
+## Author
+```[Doston Hamrakulov]
+Doston Hamrakulov
+```
+
+>*Riga Technical University, Riga, Latvia*
+
+>*Technical University of Chemnitz, Chemnitz, Germany*
+
+>*Self-employement, employement*
+
 
 ## Practical work_1:
 ### 1. practical work. Objec-relational DB storage structures
